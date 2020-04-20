@@ -12,10 +12,12 @@ redirect_from:
 Education
 ======
 * B.A. in Economics, Universidad San Francisco de Quito, 2018
-  *Teacher Assistant in Econometrics I and II. PhD: Santiago Gangotena Ruiz
-  *Magna Cum Laude. GPA: 3.87 / 4
+  * Teacher Assistant in Econometrics I and II. PhD: Santiago Gangotena Ruiz
+  * Magna Cum Laude. GPA: 3.87 / 4
 * B.A. in Finance, Universidad San Francisco de Quito, 2019
-
+  * National and international representation in Business Case contests, Finance Stream
+  * Active member of the Business Honor Society and the Business Financial Cases team
+  * Magna Cum Laude. GPA: 3.89 / 4
 
 Work experience
 ======
