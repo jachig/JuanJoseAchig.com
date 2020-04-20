@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * B.A. in Economics, Universidad San Francisco de Quito, 2018
+  *Teacher Assistant in Econometrics I and II. PhD: Santiago Gangotena Ruiz
+  *Magna Cum Laude. GPA: 3.87 / 4
 * B.A. in Finance, Universidad San Francisco de Quito, 2019
 
 
